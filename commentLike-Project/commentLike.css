@@ -1,0 +1,19 @@
+.input{
+    height: 40px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.btn{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+}
+.success{
+    color: black;
+    background-color: green;
+}
+.delete{
+    color: black;
+    background-color: red;
+}
